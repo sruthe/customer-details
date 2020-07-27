@@ -1,0 +1,30 @@
+
+.cell{
+    text-align: center;
+    padding: 10px 40px;
+}
+
+.header{
+   background-color: #ff661d;
+    text-align: center;
+    padding: 15px;
+}
+
+.row:nth-child(even){
+    background-color: #e2e2e2;
+}
+.row:nth-child(odd){
+    background-color: #eeedec;
+}
+
+.selected{
+    background-color: #ffe4c4;
+}
+
+.card{
+    border:1px solid #00000033;
+    box-shadow:1px 2px #00000033;
+    padding-left:10%;
+    margin-top:3%;
+}
+

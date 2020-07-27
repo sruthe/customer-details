@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Sruthe",
+    "age": 27,
+    "address": [
+      {
+        "address_id": 1,
+        "address_line_1": "Horamavu",
+        "address_line_2": "Main road",
+        "city": "Bengaluru",
+        "pincode": "560043"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kartik",
+    "age": 30,
+    "address": [
+      {
+        "address_id": 2,
+        "address_line_1": "Banaswadi",
+        "address_line_2": "Main road",
+        "city": "Bengaluru",
+        "pincode": "560043"
+      },
+      {
+        "address_id": 3,
+        "address_line_1": "Kalyan",
+        "address_line_2": "Main road",
+        "city": "Mumbai",
+        "pincode": "400001"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Manohar",
+    "age": 50,
+    "address": [
+      {
+        "address_id": 4,
+        "address_line_1": "RK Nagar",
+        "address_line_2": "Main road",
+        "city": "Vellore",
+        "pincode": "606601"
+      },
+      {
+        "address_id": 3,
+        "address_line_1": "Marathahalli",
+        "address_line_2": "Main road",
+        "city": "Mumbai",
+        "pincode": "400001"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Vihaan",
+    "age": 10,
+    "address": [
+      {
+        "address_id": 1,
+        "address_line_1": "JP Nagar",
+        "address_line_2": "Main road",
+        "city": "Bengaluru",
+        "pincode": "560043"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Yashitha",
+    "age": 15,
+    "address": [
+      {
+        "address_id": 1,
+        "address_line_1": "Hebbal",
+        "address_line_2": "Main road",
+        "city": "Bengaluru",
+        "pincode": "560043"
+      }
+    ]
+  }
+]
