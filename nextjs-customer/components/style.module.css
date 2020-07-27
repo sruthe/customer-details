@@ -27,4 +27,15 @@
     padding-left:10%;
     margin-top:3%;
 }
+.rootDiv{
+    display:flex;
+    justify-content:space-around;
+    align-items:flex-start;
+    margin-top:5%;
+}
+@media screen and (max-width: 600px) {
+    .rootDiv {
+       flex-direction: column;
+    }
+}
 

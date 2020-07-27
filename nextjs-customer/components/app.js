@@ -2,6 +2,8 @@ import React, { Component } from 'react'
 import { connect } from 'react-redux'
 import CustomerList from './customerList'
 import CustomerAddress from './customerAddress'
+import styles from './style.module.css'
+
 
 class App extends Component {
 
@@ -13,7 +15,7 @@ class App extends Component {
                     <meta name="description" content="Customer Info"/>
                 </head>
                 <h2 style={{textAlign:'center'}}>Customer Details</h2>
-                <div style={{display:'flex', justifyContent:'space-around', alignItems:'flex-start', marginTop:'5%'}}>
+                <div className={styles.rootDiv}>
                 <CustomerList/>
                 <CustomerAddress/>
                 </div>
